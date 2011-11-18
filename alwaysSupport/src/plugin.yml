@@ -1,0 +1,12 @@
+name:  alwaysSupport
+version:  0.1
+description:  HilftAdmins
+author:  ibhh
+website: http://www.ibhh.de
+
+main: me.ibhh.alwaysSupport.alwaysSupport
+
+commands:
+  getsupport:
+    description: Schickt Message an Admin und uebermittelt die Position.
+    usage: /<command> <Message> 
